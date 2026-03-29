@@ -39,3 +39,7 @@ Smart Backup System is a Python-based automated backup solution that efficiently
 ### Run the script
 ```bash
 python ScriptName.py <TimeInterval> <DirectoryName>
+
+## Author
+Laxmi Shinde 
+
